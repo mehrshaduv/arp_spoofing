@@ -1,0 +1,4 @@
+scapy==2.5.0
+scapy-http==1.8.2
+colorama==0.4.6
+optparse
